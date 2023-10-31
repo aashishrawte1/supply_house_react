@@ -1,4 +1,3 @@
-// components/DateRangePicker.js
 import { useState, useEffect } from 'react';
 
 const isBusinessDay = (date: any) => {
